@@ -17,5 +17,6 @@
 - Mutler as middleware
 
 # To install:
-in root directory - ```npm install```
-in driveapibackend - ```npm install```
+In root directory - ```npm install```
+&&
+In driveapibackend - ```npm install```
